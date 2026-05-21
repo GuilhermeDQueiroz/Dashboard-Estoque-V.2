@@ -1,0 +1,582 @@
+{
+  "nodes": [
+    {
+      "id": "app_vue",
+      "label": "App.vue",
+      "file_type": "code",
+      "source_file": "App.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_cartaografico_vue",
+      "label": "CartaoGrafico.vue",
+      "file_type": "code",
+      "source_file": "components\\CartaoGrafico.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_filtrosdashboard_vue",
+      "label": "FiltrosDashboard.vue",
+      "file_type": "code",
+      "source_file": "components\\FiltrosDashboard.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_loadingstate_vue",
+      "label": "LoadingState.vue",
+      "file_type": "code",
+      "source_file": "components\\LoadingState.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "views_analisecompras_vue",
+      "label": "AnaliseCompras.vue",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "views_analisecompras_datab",
+      "label": "dataB",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L35"
+    },
+    {
+      "id": "views_analisecompras_dataalvo",
+      "label": "dataAlvo",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L36"
+    },
+    {
+      "id": "views_analisecompras_dinicio",
+      "label": "dInicio",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L40"
+    },
+    {
+      "id": "views_analisecompras_dfim",
+      "label": "dFim",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L45"
+    },
+    {
+      "id": "views_analisecompras_mapa",
+      "label": "mapa",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L80"
+    },
+    {
+      "id": "views_analisecompras_data",
+      "label": "data",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L88"
+    },
+    {
+      "id": "views_analisecompras_datalocal",
+      "label": "dataLocal",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L89"
+    },
+    {
+      "id": "views_analisecompras_ano",
+      "label": "ano",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L90"
+    },
+    {
+      "id": "views_analisecompras_mes",
+      "label": "mes",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L91"
+    },
+    {
+      "id": "views_analisecompras_mescurto",
+      "label": "mesCurto",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L93"
+    },
+    {
+      "id": "views_analisecompras_anocurto",
+      "label": "anoCurto",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L94"
+    },
+    {
+      "id": "views_analisecompras_array",
+      "label": "array",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L102"
+    },
+    {
+      "id": "views_analisecompras_total",
+      "label": "total",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L162"
+    },
+    {
+      "id": "views_analisecompras_valores",
+      "label": "valores",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L194"
+    },
+    {
+      "id": "views_analisecompras_max",
+      "label": "max",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L197"
+    },
+    {
+      "id": "views_analisecompras_min",
+      "label": "min",
+      "file_type": "code",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L198"
+    },
+    {
+      "id": "views_dashboardcompras_vue",
+      "label": "DashboardCompras.vue",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L1"
+    },
+    {
+      "id": "views_dashboardcompras_datab",
+      "label": "dataB",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L57"
+    },
+    {
+      "id": "views_dashboardcompras_dataalvo",
+      "label": "dataAlvo",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L58"
+    },
+    {
+      "id": "views_dashboardcompras_dinicio",
+      "label": "dInicio",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L62"
+    },
+    {
+      "id": "views_dashboardcompras_dfim",
+      "label": "dFim",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L67"
+    },
+    {
+      "id": "views_dashboardcompras_data",
+      "label": "data",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L119"
+    },
+    {
+      "id": "views_dashboardcompras_datalocal",
+      "label": "dataLocal",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L120"
+    },
+    {
+      "id": "views_dashboardcompras_mesformatado",
+      "label": "mesFormatado",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L121"
+    },
+    {
+      "id": "views_dashboardcompras_ano",
+      "label": "ano",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L122"
+    },
+    {
+      "id": "views_dashboardcompras_mescurto",
+      "label": "mesCurto",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L125"
+    },
+    {
+      "id": "views_dashboardcompras_anocurto",
+      "label": "anoCurto",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L126"
+    },
+    {
+      "id": "views_dashboardcompras_topitens",
+      "label": "topItens",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L243"
+    },
+    {
+      "id": "views_dashboardcompras_toppedidos",
+      "label": "topPedidos",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L263"
+    },
+    {
+      "id": "views_dashboardcompras_tableviewgrid",
+      "label": "tableViewGrid",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L284"
+    },
+    {
+      "id": "views_dashboardcompras_supplierviewmode",
+      "label": "supplierViewMode",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L286"
+    },
+    {
+      "id": "views_dashboardcompras_togglesupplierview",
+      "label": "toggleSupplierView()",
+      "file_type": "code",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L287"
+    }
+  ],
+  "edges": [
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_datab",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_dataalvo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_dinicio",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_dfim",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_mapa",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L80",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_datalocal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L89",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_ano",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L90",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_mes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_mescurto",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L93",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_anocurto",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_array",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L102",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_mapa",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L117",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_array",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L131",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_mapa",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L138",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_array",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L153",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_total",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L162",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_valores",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L194",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_max",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L197",
+      "weight": 1.0
+    },
+    {
+      "source": "views_analisecompras_vue",
+      "target": "views_analisecompras_min",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\AnaliseCompras.vue",
+      "source_location": "L198",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_datab",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_dataalvo",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_dinicio",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_dfim",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_datalocal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L120",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_mesformatado",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_ano",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_mescurto",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_anocurto",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L126",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_topitens",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L243",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_toppedidos",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L263",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_tableviewgrid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L284",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_supplierviewmode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L286",
+      "weight": 1.0
+    },
+    {
+      "source": "views_dashboardcompras_vue",
+      "target": "views_dashboardcompras_togglesupplierview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "views\\DashboardCompras.vue",
+      "source_location": "L287",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,222 @@
+{
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\package.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "957e4d3ea79f3b24d873884e0d0be6c1",
+    "semantic_hash": "957e4d3ea79f3b24d873884e0d0be6c1"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\index.js": {
+    "mtime": 1779210285.9052818,
+    "ast_hash": "ee4d052826f3f76f2f655e017af80762",
+    "semantic_hash": "ee4d052826f3f76f2f655e017af80762"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\config\\tabelas.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "ade1c636411069a7acc27c6842ddf6a7",
+    "semantic_hash": "ade1c636411069a7acc27c6842ddf6a7"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\controllers\\analiseComprasController.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "84f2b05bd4e8256517a698111ad54475",
+    "semantic_hash": "84f2b05bd4e8256517a698111ad54475"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\controllers\\comprasController.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "908ae35e079a3f7815ac78e49402b12f",
+    "semantic_hash": "908ae35e079a3f7815ac78e49402b12f"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\controllers\\docfatController.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "742d4bf072af3d31fd641392bb9e0bce",
+    "semantic_hash": "742d4bf072af3d31fd641392bb9e0bce"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\controllers\\genericController.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "afd326eb5f6aec866b72d94d03b9c5d0",
+    "semantic_hash": "afd326eb5f6aec866b72d94d03b9c5d0"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\db\\firebird.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "fcf78ad64f3a3fef199883fd7b60fd0c",
+    "semantic_hash": "fcf78ad64f3a3fef199883fd7b60fd0c"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\routes\\comprasRoutes.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "a1174252b42053053ce09c18c3a0a61b",
+    "semantic_hash": "a1174252b42053053ce09c18c3a0a61b"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\routes\\docfatRoutes.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "6cbd8fcbe9b4125e7ef4020e1abebf41",
+    "semantic_hash": "6cbd8fcbe9b4125e7ef4020e1abebf41"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\back-end\\routes\\genericRoutes.js": {
+    "mtime": 1778012066.0,
+    "ast_hash": "3857e5b152fbcff0c6e9faa097cd3132",
+    "semantic_hash": "3857e5b152fbcff0c6e9faa097cd3132"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\.oxlintrc.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "2bc81a0f964a248752d70461ba7b726a",
+    "semantic_hash": "2bc81a0f964a248752d70461ba7b726a"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\env.d.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": "0352474ba2918efe13895edbc3780d94"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\eslint.config.ts": {
+    "mtime": 1779212103.6390996,
+    "ast_hash": "f246ed22f8c83ff20a87aeaa87fa8038",
+    "semantic_hash": "f246ed22f8c83ff20a87aeaa87fa8038"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\package.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "f24255a178fb5a89709cef00a7d3d5de",
+    "semantic_hash": "f24255a178fb5a89709cef00a7d3d5de"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\tsconfig.app.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "d23d3dece9cd70f4925fd79f7acc4571",
+    "semantic_hash": "d23d3dece9cd70f4925fd79f7acc4571"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\tsconfig.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "95c50cdab2472124432dc71e994b481b",
+    "semantic_hash": "95c50cdab2472124432dc71e994b481b"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\tsconfig.node.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "a99b74c0e9c118c0223ec9deb76f0345",
+    "semantic_hash": "a99b74c0e9c118c0223ec9deb76f0345"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\vite.config.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "079de76c6097902e62f33a94969bcb6f",
+    "semantic_hash": "079de76c6097902e62f33a94969bcb6f"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\.vscode\\extensions.json": {
+    "mtime": 1778012066.0,
+    "ast_hash": "053ecbf32286af8a790ebc6cd305ea3d",
+    "semantic_hash": "053ecbf32286af8a790ebc6cd305ea3d"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\App.vue": {
+    "mtime": 1779296045.4664774,
+    "ast_hash": "f1aa09eefba19d7c81db62fe270c206b",
+    "semantic_hash": "f1aa09eefba19d7c81db62fe270c206b"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\env.d.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "fc8c2152f375d3aea083cd286d071c85",
+    "semantic_hash": "fc8c2152f375d3aea083cd286d071c85"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\main.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "10c2076b300206991214d58e3a15454f",
+    "semantic_hash": "10c2076b300206991214d58e3a15454f"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\api\\api.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "e7dd61f852c97ffe6bf4ee42c4f9177c",
+    "semantic_hash": "e7dd61f852c97ffe6bf4ee42c4f9177c"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\GraficoVendas.vue": {
+    "mtime": 1778012066.0,
+    "ast_hash": "f6739f1f6e4977e6f300fbc79b2f6f10",
+    "semantic_hash": "f6739f1f6e4977e6f300fbc79b2f6f10"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\KpiCard.vue": {
+    "mtime": 1779222162.2503228,
+    "ast_hash": "88f15d77e89160449d8475bb07ec971f",
+    "semantic_hash": "88f15d77e89160449d8475bb07ec971f"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\router\\index.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "abb4ed0a57f6577ea522d36945c62989",
+    "semantic_hash": "abb4ed0a57f6577ea522d36945c62989"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\stores\\analiseComprasStore.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "f7751062bc0579547b254f2c5486db5a",
+    "semantic_hash": "f7751062bc0579547b254f2c5486db5a"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\stores\\comprasStore.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "aeec00afdd9c53df6638aa31c502dafc",
+    "semantic_hash": "aeec00afdd9c53df6638aa31c502dafc"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\stores\\uiStore.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "c7333540b550f484c85d756fb3ffc7e4",
+    "semantic_hash": "c7333540b550f484c85d756fb3ffc7e4"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\stores\\vendasStore.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "8b14d5031fe970d3d81b215b0876ad36",
+    "semantic_hash": "8b14d5031fe970d3d81b215b0876ad36"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\utils\\formatters.ts": {
+    "mtime": 1778012066.0,
+    "ast_hash": "e99a91643a05d2c6fe27f4cb1d9204fa",
+    "semantic_hash": "e99a91643a05d2c6fe27f4cb1d9204fa"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\views\\AnaliseCompras.vue": {
+    "mtime": 1779298291.6210806,
+    "ast_hash": "f93447f4bb47f3ea7a1666bb9576f1f8",
+    "semantic_hash": "f93447f4bb47f3ea7a1666bb9576f1f8"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\views\\DashboardCompras.vue": {
+    "mtime": 1779298274.501658,
+    "ast_hash": "772ebf7963d2aec75b4b8e9f0f5e0521",
+    "semantic_hash": "772ebf7963d2aec75b4b8e9f0f5e0521"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\views\\DashboardVendas.vue": {
+    "mtime": 1778012066.0,
+    "ast_hash": "ffb2a671833d74e2a5ae03a68d1fef64",
+    "semantic_hash": "ffb2a671833d74e2a5ae03a68d1fef64"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\README.md": {
+    "mtime": 1779125135.3635118,
+    "ast_hash": "d6b87199fb88c20f6d6bc274fa4bbce8",
+    "semantic_hash": "d6b87199fb88c20f6d6bc274fa4bbce8"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\.agents\\rules\\graphify.md": {
+    "mtime": 1779121316.818508,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": "a0e4d192b9e2e17256124dbfc8e24e6a"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\.agents\\workflows\\graphify.md": {
+    "mtime": 1779121316.8195186,
+    "ast_hash": "84de69efd46ab0b8430393bd4188f8f2",
+    "semantic_hash": "84de69efd46ab0b8430393bd4188f8f2"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\index.html": {
+    "mtime": 1779212089.667218,
+    "ast_hash": "c748aa59d67151c95dfa3380e49ae340",
+    "semantic_hash": "c748aa59d67151c95dfa3380e49ae340"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\README.md": {
+    "mtime": 1778012066.0,
+    "ast_hash": "b966edabc11035d9363e7cc51e3c345a",
+    "semantic_hash": "b966edabc11035d9363e7cc51e3c345a"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\CartaoGrafico.vue": {
+    "mtime": 1779298310.7669637,
+    "ast_hash": "972314d24a7bd4aae5fc2ebfa6e49cd4",
+    "semantic_hash": "972314d24a7bd4aae5fc2ebfa6e49cd4"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\FiltrosDashboard.vue": {
+    "mtime": 1779298301.6260548,
+    "ast_hash": "a94c961faabf998ce0749724c2684f75",
+    "semantic_hash": "a94c961faabf998ce0749724c2684f75"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\TabelaPaginada.vue": {
+    "mtime": 1779222183.340815,
+    "ast_hash": "2c0e08acc87e0196da6f03a6fd6fa0d7",
+    "semantic_hash": "2c0e08acc87e0196da6f03a6fd6fa0d7"
+  },
+  "C:\\Users\\Guilherme Queiroz\\Downloads\\API-Dashboard-main\\front-end\\dashboard\\src\\components\\LoadingState.vue": {
+    "mtime": 1779298239.5372593,
+    "ast_hash": "d816a1cf79f7bc3531f0042306ae2851",
+    "semantic_hash": "d816a1cf79f7bc3531f0042306ae2851"
+  }
+}

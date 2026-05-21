@@ -1,0 +1,445 @@
+{
+  "communities": {
+    "0": [
+      "api_dashboard_main_readme_1_api_inteligente_genérica",
+      "api_dashboard_main_readme_1_rotas_genéricas_get_api_tabela",
+      "api_dashboard_main_readme_2_endpoints_customizados_específicos",
+      "api_dashboard_main_readme_2_segurança_e_performance",
+      "api_dashboard_main_readme_3_dashboard_operacional_compras",
+      "api_dashboard_main_readme_4_painel_de_análise_estratégica_histórico",
+      "api_dashboard_main_readme_4_painel_de_análise_estratégica_histórico_de_compras",
+      "api_dashboard_main_readme_5_painel_de_vendas_comercial_e_logístico",
+      "api_dashboard_main_readme_a_pedidos_de_compra_pendentes",
+      "api_dashboard_main_readme_arquitetura_do_sistema",
+      "api_dashboard_main_readme_b_análise_histórica_de_compras",
+      "api_dashboard_main_readme_back_end_api",
+      "api_dashboard_main_readme_codeblock_1",
+      "api_dashboard_main_readme_documentação_da_api",
+      "api_dashboard_main_readme_endpoints_exemplos_de_uso",
+      "api_dashboard_main_readme_estrutura_de_pastas",
+      "api_dashboard_main_readme_exemplos_de_chamadas_genéricas",
+      "api_dashboard_main_readme_firebird_erp_integration_analytics_dashboard",
+      "api_dashboard_main_readme_fluxo_de_dados",
+      "api_dashboard_main_readme_front_end_dashboard",
+      "api_dashboard_main_readme_funcionalidades_implementadas",
+      "api_dashboard_main_readme_tabelas_permitidas_na_whitelist",
+      "api_dashboard_main_readme_tecnologias_utilizadas",
+      "api_dashboard_main_readme_visão_geral_do_projeto",
+      "readme_md"
+    ],
+    "1": [
+      "dashboard_package_devdependencies",
+      "dashboard_package_devdependencies_eslint",
+      "dashboard_package_devdependencies_eslint_plugin_oxlint",
+      "dashboard_package_devdependencies_eslint_plugin_vue",
+      "dashboard_package_devdependencies_jiti",
+      "dashboard_package_devdependencies_npm_run_all2",
+      "dashboard_package_devdependencies_oxlint",
+      "dashboard_package_devdependencies_tsconfig_node24",
+      "dashboard_package_devdependencies_types_node",
+      "dashboard_package_devdependencies_typescript",
+      "dashboard_package_devdependencies_vite",
+      "dashboard_package_devdependencies_vite_plugin_vue_devtools",
+      "dashboard_package_devdependencies_vitejs_plugin_vue",
+      "dashboard_package_devdependencies_vue_eslint_config_typescript",
+      "dashboard_package_devdependencies_vue_tsc",
+      "dashboard_package_devdependencies_vue_tsconfig",
+      "dashboard_package_engines",
+      "dashboard_package_engines_node",
+      "dashboard_package_name",
+      "dashboard_package_private",
+      "dashboard_package_type",
+      "dashboard_package_version",
+      "front_end_dashboard_package_json"
+    ],
+    "2": [
+      "api_dashboard_main_package_author",
+      "api_dashboard_main_package_dependencies",
+      "api_dashboard_main_package_dependencies_cors",
+      "api_dashboard_main_package_dependencies_dotenv",
+      "api_dashboard_main_package_dependencies_express",
+      "api_dashboard_main_package_dependencies_mongodb",
+      "api_dashboard_main_package_dependencies_node_firebird",
+      "api_dashboard_main_package_dependencies_swagger_jsdoc",
+      "api_dashboard_main_package_dependencies_swagger_ui_express",
+      "api_dashboard_main_package_description",
+      "api_dashboard_main_package_keywords",
+      "api_dashboard_main_package_license",
+      "api_dashboard_main_package_main",
+      "api_dashboard_main_package_name",
+      "api_dashboard_main_package_scripts",
+      "api_dashboard_main_package_scripts_dev",
+      "api_dashboard_main_package_scripts_dev_backend",
+      "api_dashboard_main_package_scripts_dev_frontend",
+      "api_dashboard_main_package_scripts_test",
+      "api_dashboard_main_package_type",
+      "api_dashboard_main_package_version",
+      "package_json"
+    ],
+    "3": [
+      "front_end_dashboard_src_views_dashboardcompras_vue",
+      "views_dashboardcompras_ano",
+      "views_dashboardcompras_anocurto",
+      "views_dashboardcompras_array",
+      "views_dashboardcompras_data",
+      "views_dashboardcompras_dataalvo",
+      "views_dashboardcompras_datab",
+      "views_dashboardcompras_datalocal",
+      "views_dashboardcompras_dfim",
+      "views_dashboardcompras_dinicio",
+      "views_dashboardcompras_mapa",
+      "views_dashboardcompras_mescurto",
+      "views_dashboardcompras_mesformatado",
+      "views_dashboardcompras_supplierviewmode",
+      "views_dashboardcompras_tableviewgrid",
+      "views_dashboardcompras_togglesupplierview",
+      "views_dashboardcompras_topitens",
+      "views_dashboardcompras_toppedidos",
+      "views_dashboardcompras_vue"
+    ],
+    "4": [
+      "front_end_dashboard_src_views_analisecompras_vue",
+      "views_analisecompras_ano",
+      "views_analisecompras_anocurto",
+      "views_analisecompras_array",
+      "views_analisecompras_data",
+      "views_analisecompras_dataalvo",
+      "views_analisecompras_datab",
+      "views_analisecompras_datalocal",
+      "views_analisecompras_dfim",
+      "views_analisecompras_dinicio",
+      "views_analisecompras_mapa",
+      "views_analisecompras_max",
+      "views_analisecompras_mes",
+      "views_analisecompras_mescurto",
+      "views_analisecompras_min",
+      "views_analisecompras_total",
+      "views_analisecompras_valores",
+      "views_analisecompras_vue"
+    ],
+    "5": [
+      "back_end_controllers_analisecomprascontroller_js",
+      "back_end_controllers_comprascontroller_js",
+      "back_end_controllers_docfatcontroller_js",
+      "back_end_db_firebird_js",
+      "back_end_routes_comprasroutes_js",
+      "controllers_analisecomprascontroller_pool",
+      "controllers_comprascontroller_pool",
+      "controllers_docfatcontroller_pool",
+      "db_firebird_firebird",
+      "db_firebird_options",
+      "db_firebird_pool",
+      "routes_comprasroutes_analisecomprascontroller",
+      "routes_comprasroutes_comprascontroller",
+      "routes_comprasroutes_express",
+      "routes_comprasroutes_router"
+    ],
+    "6": [
+      "back_end_config_tabelas_js",
+      "back_end_controllers_genericcontroller_js",
+      "back_end_routes_genericroutes_js",
+      "controllers_genericcontroller_colunas",
+      "controllers_genericcontroller_condicoes",
+      "controllers_genericcontroller_filtrosquery",
+      "controllers_genericcontroller_limit",
+      "controllers_genericcontroller_pool",
+      "controllers_genericcontroller_tabelanome",
+      "controllers_genericcontroller_tabelasconfig",
+      "controllers_genericcontroller_valores",
+      "routes_genericroutes_express",
+      "routes_genericroutes_genericcontroller",
+      "routes_genericroutes_router"
+    ],
+    "7": [
+      "dashboard_readme_codeblock_1",
+      "dashboard_readme_codeblock_2",
+      "dashboard_readme_codeblock_3",
+      "dashboard_readme_codeblock_4",
+      "dashboard_readme_compile_and_hot_reload_for_development",
+      "dashboard_readme_customize_configuration",
+      "dashboard_readme_dashboard",
+      "dashboard_readme_lint_with_eslint_https_eslint_org",
+      "dashboard_readme_project_setup",
+      "dashboard_readme_recommended_browser_setup",
+      "dashboard_readme_recommended_ide_setup",
+      "dashboard_readme_type_check_compile_and_minify_for_production",
+      "dashboard_readme_type_support_for_vue_imports_in_ts",
+      "front_end_dashboard_readme_md"
+    ],
+    "8": [
+      "api_dashboard_main_readme_codeblock_2",
+      "api_dashboard_main_readme_codeblock_3",
+      "api_dashboard_main_readme_codeblock_4",
+      "api_dashboard_main_readme_codeblock_5",
+      "api_dashboard_main_readme_codeblock_6",
+      "api_dashboard_main_readme_codeblock_7",
+      "api_dashboard_main_readme_codeblock_8",
+      "api_dashboard_main_readme_codeblock_9",
+      "api_dashboard_main_readme_instalação_e_configuração",
+      "api_dashboard_main_readme_passo_a_passo",
+      "api_dashboard_main_readme_pré_requisitos"
+    ],
+    "9": [
+      "back_end_index_app",
+      "back_end_index_comprasroutes",
+      "back_end_index_cors",
+      "back_end_index_express",
+      "back_end_index_genericroutes",
+      "back_end_index_js",
+      "back_end_index_options",
+      "back_end_index_specs",
+      "back_end_index_swaggerjsdoc",
+      "back_end_index_swaggerui"
+    ],
+    "10": [
+      "dashboard_package_scripts",
+      "dashboard_package_scripts_build",
+      "dashboard_package_scripts_build_only",
+      "dashboard_package_scripts_dev",
+      "dashboard_package_scripts_lint",
+      "dashboard_package_scripts_lint_eslint",
+      "dashboard_package_scripts_lint_oxlint",
+      "dashboard_package_scripts_preview",
+      "dashboard_package_scripts_type_check"
+    ],
+    "11": [
+      "dashboard_tsconfig_app_compileroptions",
+      "dashboard_tsconfig_app_compileroptions_nouncheckedindexedaccess",
+      "dashboard_tsconfig_app_compileroptions_paths",
+      "dashboard_tsconfig_app_compileroptions_tsbuildinfofile",
+      "dashboard_tsconfig_app_exclude",
+      "dashboard_tsconfig_app_extends",
+      "dashboard_tsconfig_app_include",
+      "dashboard_tsconfig_app_paths",
+      "front_end_dashboard_tsconfig_app_json"
+    ],
+    "12": [
+      "dashboard_package_dependencies",
+      "dashboard_package_dependencies_apexcharts",
+      "dashboard_package_dependencies_axios",
+      "dashboard_package_dependencies_pinia",
+      "dashboard_package_dependencies_vue",
+      "dashboard_package_dependencies_vue3_apexcharts",
+      "dashboard_package_dependencies_vue_router",
+      "dashboard_package_dependencies_vuetify"
+    ],
+    "13": [
+      "api_api_api",
+      "front_end_dashboard_src_api_api_ts",
+      "front_end_dashboard_src_stores_analisecomprasstore_ts",
+      "front_end_dashboard_src_stores_comprasstore_ts",
+      "front_end_dashboard_src_stores_vendasstore_ts",
+      "stores_analisecomprasstore_useanalisecomprasstore",
+      "stores_comprasstore_usecomprasstore",
+      "stores_vendasstore_usevendasstore"
+    ],
+    "14": [
+      "dashboard_oxlintrc_categories",
+      "dashboard_oxlintrc_categories_correctness",
+      "dashboard_oxlintrc_env",
+      "dashboard_oxlintrc_env_browser",
+      "dashboard_oxlintrc_plugins",
+      "dashboard_oxlintrc_schema",
+      "front_end_dashboard_oxlintrc_json"
+    ],
+    "15": [
+      "front_end_dashboard_src_app_vue",
+      "front_end_dashboard_src_main_ts",
+      "front_end_dashboard_src_router_index_ts",
+      "front_end_dashboard_src_views_dashboardvendas_vue",
+      "router_index_routes",
+      "src_main_app",
+      "views_dashboardvendas_data"
+    ],
+    "16": [
+      "front_end_dashboard_src_utils_formatters_ts",
+      "utils_formatters_formatardata",
+      "utils_formatters_formatarmoeda",
+      "utils_formatters_formatarnumero",
+      "utils_formatters_isatrasado"
+    ],
+    "17": [
+      "dashboard_tsconfig_files",
+      "dashboard_tsconfig_references",
+      "front_end_dashboard_tsconfig_json"
+    ],
+    "18": [
+      "agents_workflows_graphify_md",
+      "workflows_graphify_workflow_graphify"
+    ],
+    "19": [
+      "front_end_dashboard_src_stores_uistore_ts",
+      "stores_uistore_useuistore"
+    ],
+    "20": [
+      "front_end_dashboard_vscode_extensions_json",
+      "vscode_extensions_recommendations"
+    ],
+    "21": [
+      "agents_rules_graphify_md",
+      "rules_graphify_graphify"
+    ],
+    "22": [
+      "back_end_routes_docfatroutes_js"
+    ],
+    "23": [
+      "front_end_dashboard_env_d_ts"
+    ],
+    "24": [
+      "front_end_dashboard_eslint_config_ts"
+    ],
+    "25": [
+      "front_end_dashboard_tsconfig_node_json"
+    ],
+    "26": [
+      "front_end_dashboard_vite_config_ts"
+    ],
+    "27": [
+      "front_end_dashboard_src_env_d_ts"
+    ],
+    "28": [
+      "front_end_dashboard_src_components_graficovendas_vue"
+    ],
+    "29": [
+      "front_end_dashboard_src_components_kpicard_vue"
+    ],
+    "30": [
+      "app_vue"
+    ],
+    "31": [
+      "components_cartaografico_vue"
+    ],
+    "32": [
+      "components_filtrosdashboard_vue"
+    ],
+    "33": [
+      "components_loadingstate_vue"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08,
+    "1": 0.08695652173913043,
+    "2": 0.09090909090909091,
+    "3": 0.15789473684210525,
+    "4": 0.20915032679738563,
+    "5": 0.14285714285714285,
+    "6": 0.14285714285714285,
+    "7": 0.14285714285714285,
+    "8": 0.18181818181818182,
+    "9": 0.2,
+    "10": 0.2222222222222222,
+    "11": 0.2222222222222222,
+    "12": 0.25,
+    "13": 0.35714285714285715,
+    "14": 0.2857142857142857,
+    "15": 0.2857142857142857,
+    "16": 0.4,
+    "17": 0.6666666666666666,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0
+  },
+  "gods": [
+    {
+      "id": "dashboard_package_scripts",
+      "label": "scripts",
+      "degree": 9
+    },
+    {
+      "id": "api_dashboard_main_readme_passo_a_passo",
+      "label": "**Passo a Passo**",
+      "degree": 9
+    },
+    {
+      "id": "api_dashboard_main_readme_firebird_erp_integration_analytics_dashboard",
+      "label": "🚀 Firebird ERP Integration & Analytics Dashboard",
+      "degree": 8
+    },
+    {
+      "id": "api_dashboard_main_readme_funcionalidades_implementadas",
+      "label": "🚀 Funcionalidades Implementadas",
+      "degree": 7
+    },
+    {
+      "id": "dashboard_readme_dashboard",
+      "label": "dashboard",
+      "degree": 6
+    },
+    {
+      "id": "api_dashboard_main_package_scripts",
+      "label": "scripts",
+      "degree": 5
+    },
+    {
+      "id": "dashboard_readme_project_setup",
+      "label": "Project Setup",
+      "degree": 5
+    },
+    {
+      "id": "dashboard_tsconfig_app_compileroptions",
+      "label": "compilerOptions",
+      "degree": 4
+    },
+    {
+      "id": "api_api_api",
+      "label": "api",
+      "degree": 4
+    },
+    {
+      "id": "api_dashboard_main_readme_tecnologias_utilizadas",
+      "label": "🛠️ Tecnologias Utilizadas",
+      "degree": 3
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `🚀 Firebird ERP Integration & Analytics Dashboard` connect `Community 0` to `Community 8`?",
+      "why": "High betweenness centrality (0.016) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `scripts` connect `Community 10` to `Community 1`?",
+      "why": "High betweenness centrality (0.009) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `name`, `version`, `description` to the rest of the system?",
+      "why": "145 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 5` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
