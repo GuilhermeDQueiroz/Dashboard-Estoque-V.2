@@ -15,39 +15,21 @@ exports.getComprasPendentes = (req, res) => {
 
         // Query SQL para trazer apenas itens de pedidos de compra onde qtdeaberta > 0
         const sql = `
-            select
-                pedido_compra.codigo_pdc,
-                pedido_compra.empresa_pdc,
-                pedido_compra.dtemissao_pdc,
-                pedido_compra.dtpreventrega_pdc,
-                pedido_compra.fornecedor_pdc,
-                pessoa.razaosocial_pessoa,
-                pedido_compra_item.item_pdcitem,
-                item.descricao_item,
-                pedido_compra_item.variacao_pdcitem,
-                variacao.descricao_variacao,
-                pedido_compra_item.cor_pdcitem,
-                cor.descricao_cor,
-                pedido_compra_item.acabamento_pdcitem,
-                acabamento.descricao_acabamento,
-                pedido_compra_item_detalhe.qtdeaberta_pdcitemdet,
-                pedido_compra_item_detalhe.vlrunitarioliquido_pdcitemdet
-            from pedido_compra
-            left join pedido_compra_item
-                on pedido_compra_item.autoincpedido_pdcitem = pedido_compra.codigo_pdc
-            left join pedido_compra_item_detalhe
-                on pedido_compra_item_detalhe.autoincpdcitem_pdcitemdet = pedido_compra_item.autoinc_pdcitem
-            left join item
-                on item.codigo_item = pedido_compra_item.item_pdcitem
-            left join variacao
-                on variacao.codigo_variacao = pedido_compra_item.variacao_pdcitem
-            left join cor
-                on cor.codigo_cor = pedido_compra_item.cor_pdcitem
-            left join acabamento
-                on acabamento.codigo_acabamento = pedido_compra_item.acabamento_pdcitem
-            left join pessoa
-                on pessoa.codigo_pessoa = pedido_compra.fornecedor_pdc
-            where pedido_compra_item_detalhe.qtdeaberta_pdcitemdet > 0
+            select PEDIDO_COMPRA.CODIGO_PDC, PEDIDO_COMPRA.EMPRESA_PDC, PEDIDO_COMPRA.DTEMISSAO_PDC,
+                    PEDIDO_COMPRA.DTPREVENTREGA_PDC, PEDIDO_COMPRA.FORNECEDOR_PDC, PESSOA.RAZAOSOCIAL_PESSOA,
+                    PEDIDO_COMPRA_ITEM.ITEM_PDCITEM, ITEM.DESCRICAO_ITEM, PEDIDO_COMPRA_ITEM.VARIACAO_PDCITEM,
+                    VARIACAO.DESCRICAO_VARIACAO, PEDIDO_COMPRA_ITEM.COR_PDCITEM, COR.DESCRICAO_COR,
+                    PEDIDO_COMPRA_ITEM.ACABAMENTO_PDCITEM, ACABAMENTO.DESCRICAO_ACABAMENTO,
+                    PEDIDO_COMPRA_ITEM_DETALHE.QTDEABERTA_PDCITEMDET, PEDIDO_COMPRA_ITEM_DETALHE.VLRUNITARIOLIQUIDO_PDCITEMDET
+            from PEDIDO_COMPRA
+            left join PEDIDO_COMPRA_ITEM on PEDIDO_COMPRA_ITEM.AUTOINCPEDIDO_PDCITEM = PEDIDO_COMPRA.CODIGO_PDC
+            left join PEDIDO_COMPRA_ITEM_DETALHE on PEDIDO_COMPRA_ITEM_DETALHE.AUTOINCPDCITEM_PDCITEMDET = PEDIDO_COMPRA_ITEM.AUTOINC_PDCITEM
+            left join ITEM on ITEM.CODIGO_ITEM = PEDIDO_COMPRA_ITEM.ITEM_PDCITEM
+            left join VARIACAO on VARIACAO.CODIGO_VARIACAO = PEDIDO_COMPRA_ITEM.VARIACAO_PDCITEM
+            left join COR on COR.CODIGO_COR = PEDIDO_COMPRA_ITEM.COR_PDCITEM
+            left join ACABAMENTO on ACABAMENTO.CODIGO_ACABAMENTO = PEDIDO_COMPRA_ITEM.ACABAMENTO_PDCITEM
+            left join PESSOA on PESSOA.CODIGO_PESSOA = PEDIDO_COMPRA.FORNECEDOR_PDC
+            where PEDIDO_COMPRA_ITEM_DETALHE.QTDEABERTA_PDCITEMDET > 0
         `;
 
         // Execução da query
