@@ -25,7 +25,6 @@ const routes = [
   }
 ];
 
-// Cria e exporta a instância do roteador
 export default createRouter({
   history: createWebHistory(), // Usa o histórico HTML5 (sem # na URL)
   routes

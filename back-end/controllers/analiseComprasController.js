@@ -1,7 +1,7 @@
 const pool = require('../db/firebird');
 
 /**
- * Análise de Compras - Histórico (12 Meses)
+ * Análise de Compras - Histórico (36 Meses)
  * 
  * Busca TODOS os itens de pedidos de compra (não apenas pendentes),
  * permitindo a construção de um painel de análise histórica com:
